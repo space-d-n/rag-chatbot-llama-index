@@ -1,0 +1,6 @@
+Here is context:
+
+{context_str}
+
+Answer questions only based on the context above.
+Provide an answer for the user question below.
