@@ -1,0 +1,9 @@
+flask==3.0.0
+transformers==4.36.2
+configparser==6.0.0
+llama-index==0.9.22
+tensorflow==2.15.0
+flax==0.7.5
+sentencepiece==0.1.99
+llama-cpp-python==0.2.25
+torch==2.1.2
